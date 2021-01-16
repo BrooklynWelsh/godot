@@ -51,6 +51,7 @@
 #include "test_lru.h"
 #include "test_math.h"
 #include "test_method_bind.h"
+#include "test_node.h"
 #include "test_node_path.h"
 #include "test_oa_hash_map.h"
 #include "test_object.h"
