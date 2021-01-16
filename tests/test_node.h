@@ -194,6 +194,7 @@ TEST_SUITE("[Node]") {
 	}
 
 	TEST_CASE("[Node] Processing functions") {
+		// Can't really check much without SceneTree, just checking if it initialized correctly
 		Node node;
 
 		CHECK(!node.is_physics_processing());
