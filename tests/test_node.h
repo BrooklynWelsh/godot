@@ -327,7 +327,4 @@ TEST_SUITE("[Node]") {
 	}
 }
 } // namespace TestNode
-
 #endif // TEST_NODE_H
-// Can't do rpc, rset, set_editable_instances (needs NodePath), clear_internal_tree_paths(), hrcr, queue_delete(),
-// can_process, can_process_notification, is_network_master
